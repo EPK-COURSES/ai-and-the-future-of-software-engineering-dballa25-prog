@@ -2,7 +2,7 @@
 
 Before researching this topic, I mainly viewed AI coding tools as simple productivity assistants that help programmers write code faster. I already knew tools like ChatGPT and GitHub Copilot were becoming popular, but I did not fully think about how much they are changing the learning process for students, especially first-year Software Engineering students.
 
-One thing that surprised me during this research was how differently students use AI tools. Some students use them responsibly to understand concepts and debug errors, while others rely on them too heavily and skip the actual learning process. This made me realize that AI itself is not necessarily good or bad — the important factor is how people choose to use it.
+One thing that surprised me during this research was how differently students use AI tools. Some students use them responsibly to understand concepts and debug errors, while others rely on them too heavily and skip the actual learning process. This made me realize that AI itself is not necessarily good or bad ,the important factor is how people choose to use it.
 
 I also started thinking more seriously about dependency. It is very easy to become comfortable asking AI systems for answers immediately instead of struggling through problems independently. At first this feels efficient, but over time it may weaken important problem-solving and critical thinking skills that software engineers need.
 
